@@ -1,0 +1,23 @@
+.DIRETÓRIO PRINCIPAL
+.	:APP
+.	:-------CONTROLLER
+.		:-------.PAGES
+.		        ......>HOME.PHP
+.		        ......>PAGE.PHP
+.	:-------MODEL
+.		:-------.ENTITY
+.		        .......>ORGANIZATION.PHP
+.	:-------.UTILS
+.		.....>VIEW.PHP
+.			
+.	:RESOURCES
+.	:-------VIEW
+.		:------.PAGES
+.		       ......>FOOTER.HTML
+.		       ......>HEADER.HTML
+.		       ......>HOME.HTML
+.		       ......>PAGE.HTML
+.	:VENDOR
+.	:-------COMPOSER
+.
+.>index.php
